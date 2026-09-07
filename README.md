@@ -15,6 +15,10 @@
 
 > 自动扫描 → 博客园发评测文章 → 三丰云填表单提交延期 → 钉钉通知，全程无人值守。
 
+<img width="498" height="720" alt="1503b1f23af84f618d3919a1768a34fc" src="https://github.com/user-attachments/assets/61645ba2-3a83-4e2b-a4d7-28927ff9bf97" />
+<img width="501" height="720" alt="8db87d2498004364b04b6e11ff648889" src="https://github.com/user-attachments/assets/163fc996-f55e-4e49-967d-ad7cee81ad16" />
+<img width="498" height="720" alt="4cd4e3e7659d4e0a92fc9e0bda7a40bc" src="https://github.com/user-attachments/assets/1c810e27-d673-48d7-aee1-9a0d71c584d5" />
+
 三丰云的免费云服务器（+5天/次）和免费虚拟主机（+30天/次）需要定期发评测文章提交延期。这个脚本帮你把整套流程全自动跑完：
 
 | 步骤 | 做什么 | 怎么判断 |
